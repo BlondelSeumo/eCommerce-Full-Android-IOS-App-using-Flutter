@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>201918651575-u6t87645fa7o189nc8bob18nb3i4607k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.201918651575-u6t87645fa7o189nc8bob18nb3i4607k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>201918651575-hmu8i74f96fjubn7scph1l2dl6r6favr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAj8vyPp_CI1SNbgnZfvwnXGssjytIMCaI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>201918651575</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.revo.woocommerce</string>
+	<key>PROJECT_ID</key>
+	<string>revo-woo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>revo-woo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:201918651575:ios:547a7731a9252a45f3c132</string>
+</dict>
+</plist>

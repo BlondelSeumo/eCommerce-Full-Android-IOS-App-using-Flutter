@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1016418639883",
+    "project_id": "revo-apps-woo",
+    "storage_bucket": "revo-apps-woo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016418639883:android:b171fecff7a031c056670e",
+        "android_client_info": {
+          "package_name": "com.revoapps.woocommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016418639883-bct0mfea8n3rc2u7lbvkrq61ftg1j687.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.revoapps.woocommerce",
+            "certificate_hash": "e60e7e6f76b9e002627c61075d82d334d518a299"
+          }
+        },
+        {
+          "client_id": "1016418639883-l6695moik7qf18dl8719o6klseokcgtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.revoapps.woocommerce",
+            "certificate_hash": "b8eea634667a8cd48101360ff023df3a87e6223b"
+          }
+        },
+        {
+          "client_id": "1016418639883-nor6cnbehvg73ttg9fnnqhe31qsmf8tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.revoapps.woocommerce",
+            "certificate_hash": "bc952613d3adf7bd551f904f5ecb999a791e70ba"
+          }
+        },
+        {
+          "client_id": "1016418639883-rsocgengpsdtftcohih1nceif2dk2vhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.revoapps.woocommerce",
+            "certificate_hash": "e5e899b47f7a280c17193ff97b4df6859b500908"
+          }
+        },
+        {
+          "client_id": "1016418639883-tfk01sehvgnftj2uojfoavig7l835jv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyrjm4gvMyF9NyEkEY4KN3NEMd6zNNDo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016418639883-tfk01sehvgnftj2uojfoavig7l835jv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
